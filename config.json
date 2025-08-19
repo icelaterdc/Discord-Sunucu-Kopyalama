@@ -1,0 +1,7 @@
+{
+  "userToken": "",
+  "sourceGuildId": "",
+  "targetGuildId": "",
+  "resetTargetServer": true,
+  "rateLimitDelay": 2000
+}
